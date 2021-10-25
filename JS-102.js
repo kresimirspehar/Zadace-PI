@@ -20,7 +20,7 @@ else {
 let poruka;
 
 if (ocjena > 1) { 
-    poruka=`Čestitamo, Vaša prosjek ocjena je ${ocjena}`;
+    poruka=`Čestitamo, Vaša ocjena je ${ocjena}`;
 } 
 
 console.log(poruka);
